@@ -27,17 +27,17 @@ It features a clean UI, smooth interactions, and full **keyboard support** for a
 ## 📸 Screenshot
 
 
-```md
+
 ![Calculator Screenshot](Screenshot.png)
-```
+
 
 
 ## 🚀 Live Demo
 
 
-```
-https://your-username.github.io/calculator/
-```
+
+https://yousefalhadha.github.io/Calculator/
+
 
 ---
 
